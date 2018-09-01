@@ -1,6 +1,9 @@
 # binary_tree_struct
 Binary Tree Data Structure Implementation in ruby for faster traversing.
 
+To install the gem : ``` gem install binary_tree_struct ```
+or (using bundler) : ``` gem 'binary_tree_struct' ```
+
 ```
 # Creating a new Binary Tree Structure
 bst = BinaryTreeStruct.new(10) # Creates a new tree with value of root node as the argument passed in
