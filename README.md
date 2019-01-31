@@ -1,8 +1,8 @@
 # binary_tree_struct
 Binary Tree Data Structure Implementation in ruby for faster traversing.
 
-To install the gem : ``` gem install binary_tree_struct ```
-or (using bundler) : ``` gem 'binary_tree_struct' ```
+To install the gem : ``` gem install binary_tree_struct ``` 
+or (using bundler) : ``` gem 'binary_tree_struct' ``` 
 
 ```
 # Creating a new Binary Tree Structure
