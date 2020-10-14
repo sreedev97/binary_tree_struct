@@ -1,4 +1,8 @@
-# binary_tree_struct
+# Binary Tree Stuct (VERSION  2- Alpha)
+
+
+# Binary Tree Struct (VERSION 1 - DEPRICATED)
+Version 1 is a pure ruby implementation of the Binary Tree Structure DataStructure. This version will not be updated or extended in future. 
 Binary Tree Data Structure Implementation in ruby for faster traversing.
 
 To install the gem : ``` gem install binary_tree_struct ``` 
