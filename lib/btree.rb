@@ -14,6 +14,8 @@ class BTree
   #TODO: COMPLETE THESE FUNCTIONS
   def destroy(node_value); end
   def to_a; end
+  def to_h; end
+  def to_nodearray; end
 
   def <<(node_value)
     if !@root_node.nil?
